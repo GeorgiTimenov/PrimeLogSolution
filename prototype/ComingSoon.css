@@ -1,0 +1,25 @@
+﻿body {
+	margin: 0;
+	background-color: #24425F;
+	padding: 20px;
+	font-family: 'Segoe UI Light', Arial;
+	font-size: 14px;
+	color: #272429;
+}
+#canvas {
+	text-align: center;
+	background-color: #fff;
+	padding: 100px;
+}
+h1 {
+	font-size: 40px;
+	font-family: 'Segoe UI Light', Arial;
+	font-weight: 100;
+	letter-spacing: -1px;
+	color: #24425F;
+}
+ul {
+	list-style: none;
+	line-height: 28px;
+	text-align: center;
+}
